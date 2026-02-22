@@ -67,4 +67,4 @@ Please feel free to submit a Pull Request.
 This project is open-source and available under the MIT License.
 Status: ⚠️ Beta
 Version: 1.0.0-beta
-Author: OSmars Project
+Author: KALNUX2137
