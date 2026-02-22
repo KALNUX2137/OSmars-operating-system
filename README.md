@@ -1,4 +1,4 @@
-# OSmars-operating-system
+# OSmars-operating-system in python
 🖥️ OSmars PC GUI System
 Version: 1.0.0-beta
 Status: ⚠️ Beta - Expect bugs and instability
